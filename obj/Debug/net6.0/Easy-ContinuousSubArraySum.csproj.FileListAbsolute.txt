@@ -1,0 +1,15 @@
+C:\Users\Soaki\source\repos\Easy-ContinuousSubArraySum\bin\Debug\net6.0\Easy-ContinuousSubArraySum.exe
+C:\Users\Soaki\source\repos\Easy-ContinuousSubArraySum\bin\Debug\net6.0\Easy-ContinuousSubArraySum.deps.json
+C:\Users\Soaki\source\repos\Easy-ContinuousSubArraySum\bin\Debug\net6.0\Easy-ContinuousSubArraySum.runtimeconfig.json
+C:\Users\Soaki\source\repos\Easy-ContinuousSubArraySum\bin\Debug\net6.0\Easy-ContinuousSubArraySum.dll
+C:\Users\Soaki\source\repos\Easy-ContinuousSubArraySum\bin\Debug\net6.0\Easy-ContinuousSubArraySum.pdb
+C:\Users\Soaki\source\repos\Easy-ContinuousSubArraySum\obj\Debug\net6.0\Easy-ContinuousSubArraySum.csproj.AssemblyReference.cache
+C:\Users\Soaki\source\repos\Easy-ContinuousSubArraySum\obj\Debug\net6.0\Easy-ContinuousSubArraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soaki\source\repos\Easy-ContinuousSubArraySum\obj\Debug\net6.0\Easy-ContinuousSubArraySum.AssemblyInfoInputs.cache
+C:\Users\Soaki\source\repos\Easy-ContinuousSubArraySum\obj\Debug\net6.0\Easy-ContinuousSubArraySum.AssemblyInfo.cs
+C:\Users\Soaki\source\repos\Easy-ContinuousSubArraySum\obj\Debug\net6.0\Easy-ContinuousSubArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Soaki\source\repos\Easy-ContinuousSubArraySum\obj\Debug\net6.0\Easy-ContinuousSubArraySum.dll
+C:\Users\Soaki\source\repos\Easy-ContinuousSubArraySum\obj\Debug\net6.0\refint\Easy-ContinuousSubArraySum.dll
+C:\Users\Soaki\source\repos\Easy-ContinuousSubArraySum\obj\Debug\net6.0\Easy-ContinuousSubArraySum.pdb
+C:\Users\Soaki\source\repos\Easy-ContinuousSubArraySum\obj\Debug\net6.0\Easy-ContinuousSubArraySum.genruntimeconfig.cache
+C:\Users\Soaki\source\repos\Easy-ContinuousSubArraySum\obj\Debug\net6.0\ref\Easy-ContinuousSubArraySum.dll
